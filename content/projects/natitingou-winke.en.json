@@ -1,6 +1,8 @@
 {
   "title": "Natitingou — Winké",
   "location": "Winké, Natitingou",
+  "capacity": "8 m³",
+  "description": "The second site, currently under construction. Dome masonry is well underway; commissioning and producer training will follow.",
   "photos_before": [],
   "photos_during": [
     {
@@ -17,5 +19,6 @@
     {
       "image": "/uploads/field-wall-2.jpg"
     }
-  ]
+  ],
+  "results": "Site under construction — commissioning expected once masonry is complete."
 }

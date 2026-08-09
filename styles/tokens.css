@@ -7,11 +7,11 @@
   --stone:#C9BEA9; --white:#FFFDF9;
   --radius-s:6px; --radius-m:14px; --radius-l:24px;
   --maxw:1180px;
-  --font-display:'Space Grotesk',sans-serif;
-  --font-body:'Work Sans',sans-serif;
+  --font-display:'Poppins',sans-serif;
+  --font-body:'Poppins',sans-serif;
   --font-mono:'IBM Plex Mono',monospace;
 }
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Work+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
 html,body{background:var(--paper);color:var(--charcoal);font-family:var(--font-body);}
 h1,h2,h3,h4,h5{font-family:var(--font-display);color:var(--charcoal);line-height:1.15;}
 .mono{font-family:var(--font-mono);}

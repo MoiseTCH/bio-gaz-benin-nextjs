@@ -50,9 +50,14 @@ export default async function ProjectsPage({ params }: { params: { locale: strin
 
         <div className="proj-grid reveal" style={{ marginTop: 16 }}>
           {projects.map((p: any) => (
-            <div className="img-tile has-cap" key={p.slug}>
-              {p.photos_after?.[0] && <img src={p.photos_after[0].image} alt="" />}
-              <div className="cap">{p.title}{p.location ? ` — ${p.location}` : ""}</div>
+            <div key={p.slug}>
+              <div className="img-tile has-cap">
+                {p.photos_after?.[0] && <img src={p.photos_after[0].image} alt="" />}
+                <div className="cap">{p.title}{p.location ? ` — ${p.location}` : ""}{p.capacity ? ` · ${p.capacity}` : ""}</div>
+              </div>
+              {p.description && (
+                <p style={{ marginTop: 12, fontSize: 13.5, color: "var(--charcoal-soft)", lineHeight: 1.6 }}>{p.description}</p>
+              )}
             </div>
           ))}
         </div>

@@ -1,6 +1,8 @@
 {
   "title": "Natitingou — Winké",
   "location": "Winké, Natitingou",
+  "capacity": "8 m³",
+  "description": "Deuxième site, actuellement en cours de construction. La maçonnerie du dôme est en phase avancée ; la mise en service et la formation du producteur suivront.",
   "photos_before": [],
   "photos_during": [
     {
@@ -17,5 +19,6 @@
     {
       "image": "/uploads/field-wall-2.jpg"
     }
-  ]
+  ],
+  "results": "Chantier en cours — mise en service prévue après achèvement de la maçonnerie."
 }

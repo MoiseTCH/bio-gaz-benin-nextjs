@@ -1,27 +1,27 @@
 {
   "fr": {
     "heading": "De la fosse au biogaz",
-    "intro": "Un procédé éprouvé, en quatre étapes, du diagnostic du site jusqu'au suivi scientifique du digesteur.",
+    "intro": "Un biodigesteur ne se résume pas à une fosse enterrée : c'est un procédé complet, en quatre étapes, qui va du diagnostic initial du site jusqu'au suivi scientifique du digestat dans le temps — pensé pour durer des décennies avec un entretien minimal.",
     "steps": [
       {
         "icon": "🔍",
         "title": "Diagnostic & conception",
-        "description": "Étude du site, du cheptel disponible et des besoins énergétiques du foyer ou de l'exploitation."
+        "description": "Visite du site, évaluation du cheptel disponible (bovins, porcins) et des besoins énergétiques réels du foyer ou de l'exploitation, pour dimensionner un biodigesteur ni trop petit, ni surdimensionné."
       },
       {
         "icon": "🧱",
         "title": "Construction du biodigesteur",
-        "description": "Terrassement, maçonnerie du dôme fixe, étanchéité et raccordement."
+        "description": "Terrassement de la fosse, maçonnerie du dôme fixe en briques et ciment, étanchéification complète, puis raccordement à l'entrée de matière et à la sortie de biogaz."
       },
       {
         "icon": "🎓",
         "title": "Formation & accompagnement",
-        "description": "Certification du producteur à l'usage du biogaz et à la valorisation du digestat."
+        "description": "Session de certification sur le terrain : alimentation quotidienne du biodigesteur, sécurité d'usage du biogaz, et bonnes pratiques d'application du digestat valorisé."
       },
       {
         "icon": "🔬",
         "title": "Suivi scientifique",
-        "description": "Analyse en laboratoire du digestat et suivi de la performance du biodigesteur dans le temps."
+        "description": "Analyses régulières du digestat en laboratoire pour vérifier sa qualité, et visites de suivi pour s'assurer que le biodigesteur continue de fonctionner à son plein rendement."
       }
     ],
     "gallery": [
@@ -71,27 +71,27 @@
   },
   "en": {
     "heading": "From pit to biogas",
-    "intro": "A proven four-step process, from site diagnosis to the digester's ongoing scientific monitoring.",
+    "intro": "A biodigester is more than a buried pit — it's a complete four-step process, from the initial site diagnosis to ongoing scientific monitoring of the digestate, built to last decades with minimal upkeep.",
     "steps": [
       {
         "icon": "🔍",
         "title": "Diagnosis & design",
-        "description": "Assessment of the site, available livestock, and the household or farm's energy needs."
+        "description": "Site visit, assessment of available livestock (cattle, pigs), and the household or farm's real energy needs, to size a biodigester that's neither too small nor oversized."
       },
       {
         "icon": "🧱",
         "title": "Biodigester construction",
-        "description": "Excavation, fixed-dome masonry, sealing, and connection."
+        "description": "Excavating the pit, building the fixed dome in brick and cement, fully sealing it, then connecting the feed inlet and the biogas outlet."
       },
       {
         "icon": "🎓",
         "title": "Training & support",
-        "description": "Certifying the producer on biogas use and digestate valorization."
+        "description": "On-site certification session: daily feeding of the biodigester, safe biogas use, and best practices for applying the valorized digestate."
       },
       {
         "icon": "🔬",
         "title": "Scientific monitoring",
-        "description": "Laboratory analysis of the digestate and tracking the biodigester's performance over time."
+        "description": "Regular laboratory analysis of the digestate to check its quality, plus follow-up visits to make sure the biodigester keeps running at full performance."
       }
     ],
     "gallery": [

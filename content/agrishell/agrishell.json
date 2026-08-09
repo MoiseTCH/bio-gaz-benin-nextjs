@@ -1,22 +1,22 @@
 {
   "fr": {
     "heading": "Agri-Shell — le biofertilisant issu du digestat",
-    "intro": "Le digestat du biodigesteur est transformé en deux produits prêts à l'emploi pour l'agriculture biologique.",
+    "intro": "Rien ne se perd : le digestat qui sort du biodigesteur, riche en éléments nutritifs, est transformé en deux produits prêts à l'emploi pour l'agriculture biologique. Chaque lot est analysé en laboratoire avant d'être mis à disposition des producteurs, pour garantir un résultat fiable au champ.",
     "products": [
       {
         "image": "/uploads/agrishell-bottles.jpg",
         "title": "Agri-Shell Liquide",
-        "description": "Biofertilisant liquide, riche en éléments nutritifs, à diluer pour l'arrosage."
+        "description": "Biofertilisant liquide concentré, riche en azote, phosphore et potassium naturels. Se dilue dans l'eau d'arrosage et s'utilise en complément ou en remplacement des engrais chimiques, sur maraîchage comme sur grandes cultures."
       },
       {
         "image": "/uploads/agrishell-bags.jpg",
         "title": "Agri-Shell Granulé",
-        "description": "Version granulée, pour un épandage direct au sol sur les cultures."
+        "description": "Version granulée du même biofertilisant, pensée pour un épandage direct au sol avant ou pendant la culture. Se conserve plus longtemps que la version liquide et facilite le transport vers les parcelles éloignées."
       },
       {
         "image": "/uploads/agrishell-display-tire.jpg",
         "title": "Présentation terrain",
-        "description": "Produits Agri-Shell présentés directement sur site de production."
+        "description": "Produits Agri-Shell présentés directement sur site de production, aux côtés des producteurs formés à leur application."
       }
     ],
     "lab_gallery": [
@@ -44,22 +44,22 @@
   },
   "en": {
     "heading": "Agri-Shell — the biofertilizer made from digestate",
-    "intro": "The biodigester's digestate is transformed into two ready-to-use products for organic farming.",
+    "intro": "Nothing goes to waste: the digestate coming out of the biodigester, rich in nutrients, is turned into two ready-to-use products for organic farming. Every batch is lab-tested before reaching producers, to guarantee reliable results in the field.",
     "products": [
       {
         "image": "/uploads/agrishell-bottles.jpg",
         "title": "Agri-Shell Liquid",
-        "description": "Liquid biofertilizer, rich in nutrients, diluted for watering."
+        "description": "Concentrated liquid biofertilizer, rich in natural nitrogen, phosphorus, and potassium. Dilutes in irrigation water and is used alongside or in place of chemical fertilizer, for market gardens and field crops alike."
       },
       {
         "image": "/uploads/agrishell-bags.jpg",
         "title": "Agri-Shell Granular",
-        "description": "Granular version, for direct application to the soil on crops."
+        "description": "The granular version of the same biofertilizer, designed for direct soil application before or during planting. Keeps longer than the liquid version and is easier to transport to distant plots."
       },
       {
         "image": "/uploads/agrishell-display-tire.jpg",
         "title": "On-site display",
-        "description": "Agri-Shell products displayed directly at the production site."
+        "description": "Agri-Shell products displayed directly at the production site, alongside producers trained in their application."
       }
     ],
     "lab_gallery": [

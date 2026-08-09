@@ -1,6 +1,8 @@
 {
   "title": "Parakou — Banikanni",
   "location": "Near AD Church, Parakou",
+  "capacity": "10 m³",
+  "description": "The first site deployed by Bio-Gaz-Benin-Afrique, now fully operational. The producer uses the biogas for daily cooking and the digestate for Agri-Shell production.",
   "photos_before": [
     {
       "image": "/uploads/pit-measuring.jpg"
@@ -24,5 +26,6 @@
     {
       "image": "/uploads/twin-digester.jpg"
     }
-  ]
+  ],
+  "results": "Operational since January 2026, with regular scientific monitoring of the digestate in the laboratory."
 }

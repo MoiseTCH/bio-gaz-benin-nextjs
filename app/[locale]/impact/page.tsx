@@ -16,7 +16,7 @@ export default function ImpactPage({ params }: { params: { locale: string } }) {
         <div className="proj-grid reveal" style={{ gridTemplateColumns: "repeat(4,1fr)" }}>
           {impact.items.map((it: any, i: number) => (
             <div className="contact-card" style={{ textAlign: "center" }} key={i}>
-              <div className="val mono" data-count={it.value} style={{ fontSize: 34, color: "var(--flame-soft)", fontFamily: "'Space Grotesk'", fontWeight: 700 }}>0</div>
+              <div className="val mono" data-count={it.value} style={{ fontSize: 34, color: "var(--flame-soft)", fontFamily: "var(--font-display)", fontWeight: 700 }}>0</div>
               <div className="lbl" style={{ marginTop: 8 }}>{it.label}</div>
             </div>
           ))}

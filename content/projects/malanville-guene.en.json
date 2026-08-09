@@ -1,6 +1,8 @@
 {
   "title": "Malanville-Guéné",
   "location": "Northwest Benin",
+  "capacity": "15 m³",
+  "description": "A site in the planning phase, in an active farming area where the community is already collecting organic matter ahead of the future biodigester.",
   "photos_before": [],
   "photos_during": [],
   "photos_after": [
@@ -22,5 +24,6 @@
     {
       "image": "/uploads/field-wall-3.jpg"
     }
-  ]
+  ],
+  "results": "Technical assessment scheduled — construction start to follow."
 }
