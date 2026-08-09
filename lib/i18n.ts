@@ -2,9 +2,7 @@
 // /content/**/{fr,en}/*.md grâce à la config i18n de Decap CMS.
 // Ce dictionnaire couvre seulement les chaînes d'interface fixes
 // (navigation, boutons, libellés récurrents) qui ne passent pas par le CMS.
-
 export type Locale = "fr" | "en";
-
 export const dictionary: Record<Locale, Record<string, string>> = {
   fr: {
     nav_about: "À propos",
@@ -31,7 +29,6 @@ export const dictionary: Record<Locale, Record<string, string>> = {
     cta_maps: "Open in Google Maps",
   },
 };
-
 export function t(locale: Locale, key: string): string {
   return dictionary[locale][key] ?? key;
 }

@@ -2,6 +2,6 @@
   "yield": 0.04,
   "retention": 45,
   "cattle_kg": 15,
-  "pig_kg": 2.5,
+  "pig_kg": 3,
   "person_kg": 0.4
 }

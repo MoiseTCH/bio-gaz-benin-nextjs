@@ -9,11 +9,10 @@ import { useEffect } from "react";
  *  - compteurs animés : les éléments `[data-count]` s'incrémentent de 0 jusqu'à
  *    leur valeur cible quand ils deviennent visibles.
  *
- * Composant "silencieux" (ne rend rien) : à monter une seule fois en bas de page.
+ * Composant "silencieux" (ne rend rien) : à monter une seule fois par page.
  */
 export default function ScrollEffects() {
   useEffect(() => {
-    // ---------------- reveal on scroll ----------------
     const revealEls = document.querySelectorAll<HTMLElement>(".reveal");
     const io = new IntersectionObserver(
       (entries) => {
@@ -28,7 +27,6 @@ export default function ScrollEffects() {
     );
     revealEls.forEach((el) => io.observe(el));
 
-    // ---------------- animated counters ----------------
     const counters = document.querySelectorAll<HTMLElement>("[data-count]");
     const cio = new IntersectionObserver(
       (entries) => {
